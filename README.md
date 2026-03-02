@@ -201,4 +201,4 @@ After starting the backend: **http://localhost:8000/docs**
 
 ## License
 
-See repository license file.
+See repository license file. The project can only be viewed. It cannot be used in any way.
