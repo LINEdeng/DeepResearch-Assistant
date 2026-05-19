@@ -3,7 +3,8 @@
 An AI-powered deep research platform for industry intelligence. It supports smart search, knowledge graphs, data visualization, and—uniquely—**two agent reasoning modes**: ReAct (single-agent) and Multi-Agent LangGraph (six-role pipeline).
 
 ---
-
+![项目演示图](img/深度研究界面.jpg)
+![AgentRuntime](img/AgentRuntime.jpg)
 ## Features
 
 | Feature | Description |
